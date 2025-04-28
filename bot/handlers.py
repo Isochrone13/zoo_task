@@ -180,7 +180,7 @@ async def show_result(update_or_query, context: ContextTypes.DEFAULT_TYPE):
 async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """
     Обрабатывает inline-кнопки после результата:
-     - contact: шлёт результат в SUPPORT_CHAT_ID и уведомляет пользователя
+     - contact: сообщает контакты для связи
      - restart: запускает викторину заново
      - feedback: переводит в режим сбора отзыва
     """
