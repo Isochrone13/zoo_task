@@ -11,7 +11,6 @@ from telegram.ext import ContextTypes
 ANIMALS = {}             # словарь профилей животных из animals.json
 QUIZ = []                # список вопросов викторины из quiz.json
 MEDIA_DIR = ""           # путь к папке с изображениями
-SUPPORT_CHAT_ID = None   # ID чата/пользователя для связи с поддержкой
 
 # Имя файла-логотипа зоопарка, лежит в MEDIA_DIR
 LOGO_FILENAME = "moscow_zoo.png"
