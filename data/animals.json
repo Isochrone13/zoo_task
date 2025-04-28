@@ -1,0 +1,62 @@
+{
+  "аксолотль": {
+    "name": "МЕКСИКАНСКИЙ АКСОЛОТЛЬ",
+    "description": "Ты рождаешься заново даже после самых сложных ситуаций. Любишь спокойствие воды и мягкий режим отдыха.",
+    "image": "media/images/aksolotl.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/aksolotl"
+  },
+  "мирикина": {
+    "name": "БОЛИВИЙСКАЯ МИРИКИНА",
+    "description": "Ты общительный исследователь. Любишь поддерживать уют в компании близких и никогда не упускаешь шанс узнать что-то новое.",
+    "image": "media/images/boliviyskaya_mirikina.jpeg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/boliviyskaya_mirikina"
+  },
+  "бушмейстер": {
+    "name": "ЮЖНОАМЕРИКАНСКИЙ БУШМЕЙСТЕР",
+    "description": "Ты скрытный стратег и мастер неожиданных ходов. Любишь действовать из тени и вызываешь уважение своей непредсказуемостью.",
+    "image": "media/images/bushmeyster.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/bushmeyster"
+  },
+  "древолаз": {
+    "name": "ГОЛУБОЙ ДРЕВОЛАЗ",
+    "description": "Ты яркий акробат и смельчак. Любишь высокие точки, прыжки и смотреть на мир с новой перспективы.",
+    "image": "media/images/goluboy_drevolaz.jpeg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/goluboy_drevolaz"
+  },
+  "черепаха": {
+    "name": "ГРИФОВАЯ ЧЕРЕПАХА",
+    "description": "Ты мудрый стратег и терпеливый наставник. Двигаешься медленно, но уверенно, и бережёшь своё пространство.",
+    "image": "media/images/grifovaya_cherepaha.jpeg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/grifovaya_cherepaha"
+  },
+  "фазан": {
+    "name": "ЗОЛОТОЙ ФАЗАН",
+    "description": "Ты любишь быть в центре внимания. Яркий, уверенный и всегда готов продемонстрировать свой стиль.",
+    "image": "media/images/zolotoy_fazan.jpeg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/zolotoy_fazan"
+  },
+  "тамарин": {
+    "name": "ЗОЛОТИСТЫЙ ЛЬВИНЫЙ ТАМАРИН",
+    "description": "Ты заботливый лидер, ценишь семейные узы и весёлые компании. Всегда готов поддержать и вдохновить близких.",
+    "image": "media/images/zolotistyy_lvinyy_tamarin.jpeg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/zolotistyy_lvinyy_tamarin"
+  },
+  "белка": {
+    "name": "КАПСКАЯ ЗЕМЛЯНАЯ БЕЛКА",
+    "description": "Ты всегда настороже и любознателен. Быстро перемещаешься по территории и замечаешь даже мельчайшие детали.",
+    "image": "media/images/kapskaya_zemlyanaya_belka.jpeg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/kapskaya_zemlyanaya_belka"
+  },
+  "кускус": {
+    "name": "КАРЛИКОВЫЙ ЛЕТУЧИЙ КУСКУС",
+    "description": "Ты тихий мечтатель и аккуратный планировщик. Любишь ночные полёты и мягкие, плавные движения.",
+    "image": "media/images/karlikovyy_letuchiy_kuskus.jpeg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/karlikovyy_letuchiy_kuskus"
+  },
+  "куница": {
+    "name": "ЛЕСНАЯ КУНИЦА",
+    "description": "Ты ловкий исследователь и скрытный охотник. Передвижешься бесшумно и превосходно чувствуешь окружение.",
+    "image": "media/images/lesnaya_kunica.jpg",
+    "guardian_link": "https://moscowzoo.ru/animals/kinds/lesnaya_kunica"
+  }
+}
