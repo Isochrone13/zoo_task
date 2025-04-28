@@ -14,8 +14,7 @@ from telegram.ext import (
 import handlers              # Модуль с бизнес-логикой и хэндлерами
 
 # 1. Определяем константы
-BOT_TOKEN = os.getenv("BOT_TOKEN", "7553793746:AAGggx0uIdPFKXoZMEvFVdlLRjLrouLRpyc")  # токен бота
-SUPPORT_CHAT_ID = int(os.getenv("SUPPORT_CHAT_ID", "442103705"))                 # id чата поддержки
+BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN")  # токен бота
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))                                 # строим абсолютные пути к папкам проекта
 DATA_DIR = os.path.join(BASE_DIR, "..", "data")                                       # путь к папке с данными
